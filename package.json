@@ -14,6 +14,9 @@
     "prepublishOnly": "npm run build",
     "analyze": "TARGET=analyze NODE_ENV=production webpack -p --progress"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marketertechnologies/react-phone-input-plus.git"
