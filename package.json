@@ -1,6 +1,6 @@
 {
-  "name": "react-phone-input-plus",
-  "version": "2.15.3",
+  "name": "@marketertechnologies/react-phone-input-plus",
+  "version": "1.0.0",
   "description": "A react component to format phone numbers",
   "main": "lib/lib.js",
   "typings": "index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whitecrownclown/react-phone-input-plus.git"
+    "url": "git+https://github.com/marketertechnologies/react-phone-input-plus.git"
   },
   "keywords": [
     "react",
@@ -46,9 +46,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whitecrownclown/react-phone-input-plus/issues"
+    "url": "https://github.com/marketertechnologies/react-phone-input-plus/issues"
   },
-  "homepage": "https://github.com/whitecrownclown/react-phone-input-plus",
+  "homepage": "https://github.com/marketertechnologies/react-phone-input-plus",
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2)$": "<rootDir>/test/__mocks__/fileMock.js",
